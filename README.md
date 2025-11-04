@@ -1,18 +1,7 @@
-## Getting Started
+# TDE 2- Código Morse
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+**Requisitos de Implementação:**
+- O código deve realizar a inserção dos caracteres conforme heurística do código morse (ponto à esquerda e traço à direita)
+- O código deve ser capaz de decodificar uma sequência de caracteres (palavra) fornecida por input pelo usuário e realizar a impressão da palavra decodificada (console ou interface)
+- O código deve imprimir a árvore resultante, podendo ser no console ou interface, desde que a visualização seja clara de uma Árvore Binária de Busca. Esse item pode ser adaptado de uma implementação já realizada (internet ou IA)
+- O código deve estar modularizado em funções e classe(s), seguindo as boas práticas de programação (organização de código, nomes intuitivos para funções e variáveis, padrão camelCase)
